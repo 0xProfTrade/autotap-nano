@@ -1,0 +1,169 @@
+Registrasi 1 (ref: qf6HxA):
+{
+  "token": "b708bf7f-3007-4265-8358-74270c95675f",
+  "invitationCode": "XO4SCg",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@198.23.239.134:6540",
+  "turnstileToken": "0.yeIi4aU7-4uBRJqBccYo6B3ljMuAMixHJE5egeXL8G1BeutyKkq-YIaWAv_uwDv5RYn-USgZs0eiBT87ESHea14jtiq8wSl8ZFQl2Uu5eV2C5EDI2pVo3nI4W7fxQNMOvxwdYBeq5xYjWfaIEAhWNrmbtlNmGK0CJVmxYrnPWQb8zrCNha3lrrq2AZvf6xTsIikRPK-uJER__AV875y2nmCIbPI6vwMO2BHoYftusB6dkeBM4s20GqQzp4-fJ3Wji4-0l18IC6Vh-XyWq8Jy4YDCyBg4EeFZmxDlUrEOU-_BJ2PjvT6H_bjyDIRHJWfSWmRbRj_lOBWZ0hvBOqgTMHBaBgvIxRzon-KGhr12KTm1uHH8lntCG6WL1AmGfPuK_O-BFMkzLZK8rSeHkc2GX-Ay0saWKa-iXvZSoCA3I2yOHlZ6I0UbxFPyL4NzGLBe1pbLUis1F0PDwwzLOAXS368fIJX-RDjDtx90j_TO82mZGONdSzCQRHscMZxNQrhG2gbciYLQ5QG-g73HHkFaI55SUm5XGpxSRASuT-RvZAjGlnuveAOQj8lOOwu8C4yqLtc9ONR1igC-RdSUjjytjYDLMEdwq4eEZvoxC6IvthrhdE22RxZQmZVC-EGOcUL9fMTYj7n_HzjfqRhkOhuft1LHHZfIjFdnQO9ew8JgI-9_LcDrWPF5XNHeKHrzZHwFB6EebeBNEFezNzZBUgA9iBaFY3Y59C5eciEo3P_WuNf1Om_7sxQfk0l99eL8CeQsN9dfFpT8Samfeo0VilnrIMUBOHjmumN-44g013hc-wGJGWHZaOcxtWN9T0SoVGa76byhD0orHk59Snx_EQd-JMiPnpX_Iu-pJdfhP0ESEhm3IPUzKyBE54xh6U4NXHy6bfgsLEDs2lwSJ4KQkwEn8pPteeqz6sfTq1qQI_PQSfZOh7CUP1-zbWv4nCw9rZTWxtm1UDCjRy1qFD3EHUe_7Q.BNmQy9H4T1CznwP2ATlONw.e5748719bb9ac881ec2fde18db780381e22e7440aae94c46f3adfb285dea338e",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiODUwYjNjZTU2MmU0MzdjNTUzNzQ4ZDIyOTYzYjVlNTJmYzMxOGZmNmVjNWI5NmRiNGE2YWMyMWE3ZTEyNmFkZSIsIm51bWJlciI6OTY2ODYsInNhbHQiOiIyOTM3ODkwYTEzYzY3MTY2Y2IxYTE1OTI/ZXhwaXJlcz0xNzcxNzUzNTk1JiIsInNpZ25hdHVyZSI6IjI3ZDI2NDIxMDc3MmU4NGI0MzE3MmQxM2MxZjliNmQ0NGRkNTE3NTQ3ODc0NzQ1OGU4NWI0ZDYwNDJiYTAyOWUifQ==",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 2 (ref: qf6HxA):
+{
+  "token": "203a6773-77d7-49ab-9fef-732456c82055",
+  "invitationCode": "DsfT8Q",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@45.38.107.97:6014",
+  "turnstileToken": "0.EBAxkaGeF2Sv27LcCENbZ4793iDrFjKfVgOddS4D3agNApIoLKGpKdlxjjsfzNot_CXeWrZASGohvIl41_3UIrPXmPenPD3Ahm_6VB_7XdQG3J8SHz9KuW18oLZz793Gl5QQMk9Bo-1gq8rrcs5fECbdIlP0T-MkkgzFvVaGw25_2XXppDfrZ3g2yuVwCctck7-V_6C5XF87WyuyD7inM5UlrkHrrvPlKWa5R4BqpfCQTScOxza68VAicyAl_DGuHIdYea8S_KwDVsa9ekG8faXv8WOIIi24_d-5sdfOLC5n3iDVvt6tAEt6rw5dRNVECk12G8p_WCbkZ2PsyMBLHYUtIZBVG1RTtogzABUXj4GGHIkVRhRF6_F2ggBMtWBnUAKKGvzj0KZofMymGGKEkVxC5nhKxj2hpdcGKl4DolGsBaVzBL0FUsZ8I5PeazAyakkReC8RzjRDhRTWFznkXZdM0hiApWskvnv9wveMl23w9x6M5bKDYPLL3IONSZ3_TQfH-RaXL0tdgWeKhz3Rmq61nlwOAeP3NMTGL36zS2PfsNP8mfhfC3ajf646Zk5dUZmLeX67Pg3q56U8kx14CoGfZCxYdtrfj8_dY4_VlsL3CtqV8QuZgX8_kWfJakKK3mFJoeL4Bqf3VSRvca-YKRJGhyxDdt6SdvOuG20AgzeEGDxh5Rww7M3bJBn5U8hAv1GctDqfs-hyXzaWxqhpGBHJTtI8y8YB61O2ZvtQNr4v73T1Ajp_-G3R93JEMs7hEClEc7mr38gzB_Pg81P15sN7i3Bp-p4ziH5mooJcxA9mD1e_T9aaEwMp1HC4iqrVXzQNhGky_CUSC1jsO3RyxzY9DEWOkmcPIP4lCvl4HciJd_PJm8FcDIAEL74eawSzFrbfzTkqzXnAW73PJQGxzWcjZtspoBkUCl2ByhnWmcVx29YMmcnxpEHSvKHN8ZlRQ7BgMshIzgiUJBztTzUk9Q.YPpMieUHdYG_UK-Qg3ysBA.e9de58757534331b99b05afa7d1e64c556bc4f12d59d6ebd7f9288787f89d91f",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiZWMxMjIwYmIxZmRlNWNmOWE4NzBlNDAwZDJjZmQ4MjU5MTNmNGMxZGU1OWI2YWE1N2I1NjZiZWI0YmRmYWQ1MiIsIm51bWJlciI6MTY2ODM4LCJzYWx0IjoiOGQyMGFhMTM1MTA4NTNiMTNiMGRkNDFmP2V4cGlyZXM9MTc3MTc1MzYyMiYiLCJzaWduYXR1cmUiOiJiMmQ1MGEwODZjMDBjNjRjOTU0ZjI4MGE2OWJjZGM1NmQxMjFhNzhjNzFmMGNiNzJlYmUxNmE4ZGNhODllMWFjIn0=",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 3 (ref: qf6HxA):
+{
+  "token": "8792c056-3813-4cd5-b213-588b63615971",
+  "invitationCode": "aOIdRg",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@23.95.150.145:6114",
+  "turnstileToken": "0.ODqf1xTxwxeoiOfMeoTS2LC50MAoA-AMVIc2Ecv59Io-eW_8IibWLcmiuYVosVYHvBDZchTFcRS-8D3FBWRJFSrRnBFhtYaU82xCqtn1YULhgOPQJKaL_k1e0aexF-_wM1c-6PGRBm9mImUu-xecAmnQ61Q0gHU1Lx_VXpaluGoE14xT3VtGgQmP92tEJcopcB_1pjKslEVV-r9tb5PV6PKu6QCncpFk2YqGxvzb5Rv1pWYdyR2Icio4GhWGJcYvnQ8qoIcpNx3tLr535rEtttDyDQ_B6ICLK_KX5tXAHxjvLyjkCgOA4zpacHc62_F389si8E4WIxExK933xTenckk6AOi9x6wBvAx9PUUQYiG-z1Idt0izMLDgK28rtb76zpvY0akzM2FPaOVWNz6s3bq5h4dpoIWYCWnf-gArzHj-h173QDNVI32_MU9vUQC07QtuJPpWrrrc_mH8_0GDz6rmO1yjBTdbXF4UJzojnAENL_MX_UHLiaqH1NfNnDvugAcq8KhAlFbaySUIJOC5xC_VWxFbxLiCCKfUNeu2G5N---g6gURqvLY2adccxcyWRuA0SRFxqGDSZgGN_k1WkU0KOgj02Z0-h6KyhEmpUWNyLuo_S-HNFDzjpjWuBlz3a3m5uDCc7L8AkJTifYQToM0bIN-LawrSO70PkMYENUWMIcCpgCcqrrK77ZqbU5CTrkikYBq05iZSaJm-O5kxyItfOyXePv2PJPPNhg4x-lFQet9gaokvO2loVoFDWCY_9ZxZyoHcbn1l7kKuPETAw_yfgJmelJmsz4075rLqSJSA5Zzk1Mn5xQ43yLZDycdmLw-u7qCK7GdQNxFXJlkK-DWVKtEhuDPbd4aZCkgszMj97QGNAzJvYdlg6z6KCc2cfpuIFLAFzX23h3nCnuTQTaRstVFcC9QHJZdU4-EOeXbIpQho_naKxOkkF9Ltsux0CYwmsYQ7EizLRmR0xf8TMQ.MZlznHrLvFE4OFE-zLVVXg.3676044b247254e9ef0471862ae85a319d1aed38734b481fc62a4d7ea41d49e9",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiZjJhNTcxNTQ0NTcwOTI0MzM1MzdhYjQxNWRhYzFmZGQ0OGViYmU5NzQ3OTcwMWJiZWQwZGJhZDVjZTgxYTBhYSIsIm51bWJlciI6MTQyMzQ2LCJzYWx0IjoiZTAwZTAyM2I0OThiZGE5YTNkNWRhZTdmP2V4cGlyZXM9MTc3MTc1MzY1MiYiLCJzaWduYXR1cmUiOiJlNWQ4MjE0ZGVmOTY3NTQ1Y2U0ZDA3MjM1NzY2NDdiYzNkYmM1ZGIwODJiOWUxNjRmZjNjM2I1MGQyOTcyNzgwIn0=",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 4 (ref: qf6HxA):
+{
+  "token": "6e8ade11-182c-481c-8bd7-653f16941986",
+  "invitationCode": "FpumpA",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@142.111.67.146:5611",
+  "turnstileToken": "0._cqpUJom5qUwvht6Y4sjGnVVaBWFbLLGpP6O57R4Lx8nWS59NKB9nxLO6gjCV-TxNOIiSd65rRTJlkHKPNgfNME2bfWdWvc1EF7idcweJSJOL1Ww2POfsfNva4O2p9kQDVjLg8vXn8VQt3rnndNx-sw_babFiwTCZzvaNpdY9IzTIff9KwA0wNy6AQYzLxsMKRf3qHmLeMWdjCd_3OYxcAsfSF2JZP0dvcwkpVjye0HdaaZocpHgRE8tiCiOgmTvAZNcOTius4qhKkCXbqFggd2LZqWcBbh_acdlH2QuQXFz4J6LXWUjF8vrEn_voNn6fDdOyLo1UIk_k5sowhwKeiG7u_rHMgG3HrebvQPoxFai75kvOorUSdeKgHuSStU-YPdBQZMGmWhsd8Rhfy5FhUY-G8rgeaIrdq2VZMvxcKEHUCEp-5QBIfrh9ijA4VKWSuukr4ysz5yuhawo3aKyXK7ybZKmIWGesBQtEHrF0XDiv5P6dEl1teaNcas66pqt72ZQ-Jx7NAj89L5cy-mf3kLiMNdQkPxOlXa0lKbZsFFE2l_Tp2kVPgL_0Je1iY88gLCcvkZ5aoztA2nucVSSkEEIbNOmJfin8lACJhDcvgQf_Sdep_xU3fCSBexLMvJz1p_wQnpBcas77_LPGNZcLsCxo1mzaZo28dWGA4VJqTQMhel-WZ4Qarp0Zxyf0FFhuFgQcziZxRAGH_nXjf4gIFGObDx4M05vX2o5PwMSOrayDU4V3S1BJkkTQOjzX2s0wnGT6iEg3ACl9ZZkcy7U2hQOSNbZyFl9G0L_5_ZReQYa_tB_u598vx9RWwmkHTafkt1ou1RLM9XTihKgHCEbGUWA2hPEYKgSYKuY15QBU5pNUR7Q7Uz2n5Up8yb6yfdosAHlJqz7RsSAc7ZmPqI2iVXCnfQGmUIZNR-XkH8qaUnGf37ct0l_xKv81aB49Du8J9CA2QrRchhzRCKPX2SeiA.GzX5Y7Hw3VdinH3Hl96t-w.cd84b0d947426976acbbb1f522efb57b5bedf4699a142cf9cf0799506005ca25",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiZTI4MDIyYTk3YjNjMzdkMzQ0ZDE4ODU5MjZhYTJmZjljNmFlMmFmMDFmOGUxNTUzYmI5ODAwZjc4MjYzNmQ3ZiIsIm51bWJlciI6MTgxODc4LCJzYWx0IjoiYTQ1NWMwYTYyMjY0YTMwZGU1MTg1OTk1P2V4cGlyZXM9MTc3MTc1MzY4MCYiLCJzaWduYXR1cmUiOiIzYzM5MjU1Y2Q4ZmQyNzA2ODkxNGFlZDI0NTE4YThkZjgxMTIxZjMwNzFhYjk0MWMwZWMwYTMyMGZlNzcyYTEwIn0=",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false,
+    "invitationBonus": 1000,
+    "currentNano": 1000,
+    "message": "You and your friend each received 1000 Nyano!"
+  }
+}
+--------------------------------------------------
+
+Registrasi 5 (ref: qf6HxA):
+{
+  "token": "53f8e195-9997-4ad1-8f1c-0d9092985fab",
+  "invitationCode": "Ti7CSw",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@198.105.121.200:6462",
+  "turnstileToken": "0.IXRZSUIcPpHpdxAW6G93NUYY4ImS8O5oCsgy3TA_fkY9SVaHX9XMyvGvMD1jYAq87XX-gkdzi4-pcIz2cm2ROmV17TJx46H_PBQTXlNR8gX743-rnC8UembKnajJL1vLltTSF-LvS3y2Wqavqj6vaue0qEJZvhQIldSPHnQl_CfDjuDPdSE6ZcTYMB5DYdRPdeLLNDvhBsmImec02JUv4UFT_Eqq5qjYaaiEs0D1rsY8JgChlx3Z1RX_ielmOtLpJxiEdsO3XVjFLsMRvPs_053DCNTiFDwLZyamPxRSgVHPtdKFcnfJmfGtEW7Wb4eBTjZn9X5AcmWSOGALPcHu1uwaoqq29u3Q5I-OxmElJ0JnU26zbwEeB_3BRte1Ti6DB4oYE0iRYkxTv1c_0UReoqzK4kkbOR3TFMCCyMD0jd0TxiFvkWSe5Mj0Q3bwakHr5WiUk2nbrFj4s1IQ7xUCOO3ROh_HV27WRjv26pr-2z0bvo3bpllXKmo09aEN6U4YewGSOQ5Gd7vkbkpVAM7tv-1NiYHkoXMg5u7-iT_pA_1NSrzrIwUerkyBvrTW14ltXDyyVKPyFTnEYjBJn_kaYntG4V8aCeZPsnD-fX4atxM4Dkjvu65XYJvbIVFNKJOkLkPNi0yT2JIK8vDwHDSFntY_p-1fEt_gf-vkZ7NsSw1j7SY4YDT-xD474PbIO07v4NvS-Yg2peknWk6LpeYiEFiMGrxt7dkraF-mRn9xSCzDLhZ0xIGHUny4RW5nOj6cEpP0BRGec3y1dH4_mBFNTJUm_dKBYpBrPfYBSFqKvwyPiYL3w_dEYwrYDe6JBMQM8bvskVyWxWyFT9vZ99Pa05zDL5nsm33gWXE89msGEkKCXM-6X4Zuvd1Tnr9mWt_YDSD8eB2N874BdpV0XHmDP7xQNgW2EEr9i9jvCkhOcKOivjjdUFVOyDMWNWBzy2OuTnjNvoXLg1XS7JQw5OnXGw.Kp0lhMcmhuNDNjgZoqNFDg.cfc9d4b1175449c83ac1aba591d2feef5263b3b25018bdda21c0bcd3c18bc4aa",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiYjY2ZjhmMDRmMTQwODU0N2Q1NjY4YzI3OTlmMzkzZTRmMDEwY2FkZjgxMjdmY2ZiYjRlYzZlMzM5NWU4M2NhZCIsIm51bWJlciI6MzkxODksInNhbHQiOiJlOGJkMzkxMjNkYjg4YjBlZDI3YzZkOTc/ZXhwaXJlcz0xNzcxNzUzNzE5JiIsInNpZ25hdHVyZSI6IjlkNmIzOGI5OGZlODQzYTg4YjEzMzMyNGUzNDA4MmJkNWYzY2UwNDk1NDAyNzY5ZDhkNWIxZWYzZTVmZjVlZDkifQ==",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false,
+    "invitationBonus": 1000,
+    "currentNano": 1000,
+    "message": "You and your friend each received 1000 Nyano!"
+  }
+}
+--------------------------------------------------
+
+Registrasi 6 (ref: qf6HxA):
+{
+  "token": "89e7b55d-926e-4043-9b60-30eebeed8863",
+  "invitationCode": "2frUWg",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@45.38.107.97:6014",
+  "turnstileToken": "0.NHqh88M6gK-qkEV0z9iKl4kgdNWEca1o9bjYMiuaQhqyE2G9VRd-NgW1NQn3JCZqSI5BcZZ-OD42M2oRcD-COMT06a5PXX6SxtLR9mbgwY0V4LGgj8V6mZGvN2L4CvlXL4M4t6K3WF_s8oqFLLQHyUKzuupayLJ0BlA2UBBsmcukS-1oSkgC4swUxGEImV5gUl1DEjtfDiRyipQinoTOlzShOhe2MAUTTAnAK9bn3AVBkTGOCMKf5Gi11T4pupBGYNFxlAxnT__yBINugQBkD4qBQYJ8eIcSGsjE4IKD7QtULEPBRI35ZEHG4YwR_gKrXqMFJjnKBPg9_542XogAPNAQLgsSlBvsUVxjvelfTIOGFHkyWupc1v3EmN-R_Gz5HjijYLfXJtlgiU6AHoGF4W4iz6oh__VjMtkBUboI7XddQ2FV2yFf8oujJIxYu7HSnipAaoy6OzZN91rJDEKPBM-CPH3n8gdR3ssz3NSNUlqmMtUr2l3gN_KoJeVEn-yOKDk-EPns9vC19D8PuEONdGPKXLKMFwxAsyTWl8YtirspjLjENbgSbP1r3l69AgC0pyoMF6ClVrTz1jDQfIhsh33TWKF1BFQgFPYDigmD5PMuJ43FFSFkOOXZ7Iypcp0EVeb86F3VGuKUZOx58B3sClOK3IrQ2TyxQ_B9ZusMhNg2ZlbqVarLQnEkdsUVonpN_dzgPIYP7IY5851k0eJCSntRQUoOQm3offKR_n0QSIrjsyo_nnnTqkgIYKomOcqARQy5R8_UsqVTTpCEeYov-nHiW4oYPbPl7GQhzHqq5SK-UfrNa7iCSGZ0Yaleq3yVm3h4ZGkV0sfpXJA31ZZJV3J-UQbs_r6QmNfGy3FL6JvYhg94bCqZucCLfQ5gvgHlFs_1evTj1TMauZy9_uVJS-Bgl8XVF8NEY4YshkcabO36Y0tHBUdqEEcZcylmDcUrasfUSKenGBDB96_x1JXFvA.kU-SW3d3CcFRJQwH9xhmng.b97462c25e959dd00317be64162f17b013ce17dbbe02cedfb4099f92ccac1f5c",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiYTI0NGZkMTBkZjUyMGFiMzRlNWVmMWMwMmZkZjIwMjQ3ZDg2Y2M1YjBmY2Y5NjVkNjk4MWY2ZjE1NTQyOTAxMSIsIm51bWJlciI6ODY0NDYsInNhbHQiOiIxZDQyYWVhZTNlODhkM2UyZjQ1NmJlMmI/ZXhwaXJlcz0xNzcxNzUzNzUyJiIsInNpZ25hdHVyZSI6IjFlNjExYWJmOWYxN2I4MGVmYTVkZjc3YTdlMzI2NzkxOTQyN2UxNDFhNWU1YjBkMTgxMjdlYTc5NDY5Y2M2YTYifQ==",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 7 (ref: qf6HxA):
+{
+  "token": "35eb0c9d-ff9c-4231-910e-41d80a058d6c",
+  "invitationCode": "TjJGEA",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@216.10.27.159:6837",
+  "turnstileToken": "0.DsdyhDZ4VasAfMJNof6IHu_MgR_4qchKznLH35gWC6eUB-fUYWWabxkVo67DwNqciLb95KQRZC0I6D_D7y4TkoMUx05mUY7lZ6-b6VnIX6CNZ7oZYqov_bC4tXYxz_-lPr7hAPpUSV9NX6l7zjEIuDmzSUEO3Nvh7Tr7sHdtvSFEgF-oCt3DEidREOYr7fTXr2KHlhVqlsRvpqmal5cnElTbxoee-QY4KokqS6Yw33IH-9mg2RvUt6R2BAGs6ByNHrWR_2PzDAVf6Y9U9D7-hNvjifauJyTnB1fmPvv4rcnXRmsYf0rrlSYDQEs2C4DeAN2AC_SLh05q7orR7i4taASOOpakJAstL6v4esCQ0lrgt3bghtYgHo7K0hRPUTTJdHfx012wb3gLWw6Dct0JOhVxj4Y0M4clQFyNF7-x7FJhV4JKuIEebcqkLlEpVrYdQKj9TDxMym8lUzNfYl5AQrM466exyFvNXtiEkG8U3B4_kB0fCN_lpciaBJGTQ4FXQzWW3bjcWXxbgl-PT4NsY0jvXB7O9XGf8J9nxXQV6LtDnaCFG31KCCW5PoGZm5hhOVfpwnRnpbweuMe_lzzC1B7KCwGwtBxBwkjb3JLJyUp1xzWnz3maSTTOQhci8XVLKl0UmUjRHfVvrGaS6qKeR8H6MQ6ee-QLCQLcU58iHi-FAJZ-eyL3s0F-rSk2rbLBB9bphYZ8e7if9PGlDthEqIhvpbaYvNoE7jHZik2CZHx8sg7YhKHE89MOuun25GgJkk4fo16gzfzpxFYjc65WNYNcqzTG42CTwWQlhmhOp3Bqha5SmxO-2B3tJ7AzZpC6j-sDCZfgMc1K5QRdj-BTzahr3PZv6mVHk0XBXJjfwibBFTX2_YWI1wY2IxYJcNx-v_kYpxMyIZvesUVGOTaSGxKQD91AULUoMh4V8X2JaV0luBbtyTI2eqS2JN_GHkOgRJ_sgGR0mlXj8B4cpJt3mg.P4nzkgO8eLDQOcSjOtAr2g.edc9d49e6ea0fa15663824f61e8a45fccd3a7aedb2978288617ddcb40fd0d716",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiMTllZGU3NmNiNjQxNzczZGUyNzYwZmU4NzlmNWIyYmUxMTAzNzA4N2Q3MmI4YTFmZDJlZjYyOWM1ZDA3YWI1NiIsIm51bWJlciI6MjEwNDAsInNhbHQiOiIzNGI4NzQ3OGM1NmZkYWY4MWE2NWViNWI/ZXhwaXJlcz0xNzcxNzUzNzgwJiIsInNpZ25hdHVyZSI6IjQyOTQ5OTAwNGViODM4ODBmNzE0OTIwZGU4MTliZTJmZGI5NTdlMWE0NWJhMzkyZjc4Y2I5YzQ1ZWEzZmY2NmQifQ==",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 8 (ref: qf6HxA):
+{
+  "token": "34b7f7b1-ec3b-4dc4-8dff-471618894d67",
+  "invitationCode": "q4ZBBw",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@107.172.163.27:6543",
+  "turnstileToken": "0.678UabFwnDWWS_7qyR2POO6noK2_ntuZfRzTVIM4jtkvZ3GJE2e1DxIwhqdzwF9hsEyqBZTeJbKxAFNyBOVM0JhVev3ZiogRzBOLoDh3THfNXBbtDCEvLsOIUiDRGIqqEeRZQNgOFjCx4gn0k6ZTvZG42W8YuI3B4mfMVSwzDvzZEJFmiCAnI7CwPFBYdTjqxItFJL1seOS_yokEMGvwowxRI_3JqFnouFp1AsKjePUbO1aovtTldEmbRvY9EtVfpVGQAAZN8qrfTT8JhrrjPF4mAxZ3539aV-xjLnfWvuFvJmjnjcn4TiPzJQfBbaDoRUtI3weizTgJEtSW39A4gCaWiL9Zo2uMVqfKCqdenGwC3JeuGeggAW_t-o9pOqnd6vGhgVzgO5f6Jw89yFj0UOwHKIyIJSSZ_P5q1kt-6vx1bltBAkTS8wbAloNV82q0RpD68t9HRKFGTs1AkXp3W7rGbvYd_kR-QdNVL9rurKf704aSzamDvB2Jof3fqLCpNqP2iaHDNyovC9gTczSxWE_g0IVjMCOpMkcHlD9GI_p1kn442nRyELiq60_vpkMhjsJ7dzxPL_V5UBeHkpkYQ1r1wGkMwrsS_bXoC_m983jp1M1TA21ywuiS31ZAe684NGb-JG9Qk7nsYaxdek-XCgY1hrVfhTTxvngTluCZCFh-jTCboXi5NYaAe6bZzld6Pt_Wj1nGjOjQMeNcBY-PLvnQV1huNqXXGY61S1VpJllxoNkDt6BmmxpdU8hX924fnxgRWzuCv4-AjO_8gETryxR_-XkIOFeC3fe4gjPY2u8XFDgX_KfpeBmmUQOEIOCGrhZDkrpVGFn2BoSSksPWYE8OCI0TrEx3i7Dp8vOxTfYWm63knYQLIg7Gfx4wqk19kXmUvC2Iko4VW4wh_hUJgIm44DGuFWhNV5eyShtBjJJwYvQHDoJ48BV5iI9UEttiOfYx7P9KRN3dENCjx39nQw.bpKt_Q7LR0-2MPSreB2EmA.a9b26369ce5ffbfcbe878250c7a6350a6ea73698dfd356e0d0273ac296cda6e9",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiOWU1NDRmZjA2Njc0ZjExZWU4ZTg2NDUzOGQ3NjUzNWU2OTljNmVkYTZlMThlZTQ2YzA4ZDg3MjUwZDcyNzljYiIsIm51bWJlciI6MjcwMTk1LCJzYWx0IjoiNzcwYTBhODQwZThkODkzMGU5NDA0MzAwP2V4cGlyZXM9MTc3MTc1MzgxNyYiLCJzaWduYXR1cmUiOiJmNWE5MTFkYzViYzZiMjE5ZjM5MWExMDdjNTIxODRlY2MxZWFiMGRlYjFiNWVhNzE5MDVkYTdkYzZiYWEzNzg0In0=",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 9 (ref: qf6HxA):
+{
+  "token": "f7c511b2-b9e4-4edb-a1ea-c3b8ca4fbfbe",
+  "invitationCode": "tcBIXw",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@198.23.239.134:6540",
+  "turnstileToken": "0.KdUY0iSl3VJxWWo5jC5XHzPormS3kCxoqYvZKaLx8uoweDdMNiW3f1dQAu9KkdJEzw3u8afqUQLh1LpbOEfwWrbns-6rSbuhJMXdADVE6BhfmqlzTEUIykhh9E5OvgjU_W-FBljsATBe0lz1X-tDOEjYlvbGQ91nYMIXj49WmC_-QyaHgOg3TtgYAPIDmXaL7SxGGtGoiJ6trJUMp-6HxUO8DH9aEQOyw_7s3K0-RH4MsO_le6oBupiI0Wza0lpcGypXx5563ppMI3dYq1k370Z0oyzRysOvIMOW9ONMUsaKXSgrgCrnIrrOsjqT06y1FcIlxl6QXeGP-9bDDGoT3ZzVwKwMo3rmCMCvOipw0kU6nTQeKEKy86oBxKb6wrQGGJetFYoY-VoMjXVSt9867EtV6-iBkdo5PhrXlvHyU9BE_eBqUsOCO44OcyGiYcqd2555QM5YpYB0VzvxNQLWtQJNEzNYGY4T979zQZvuF0DGHf8aBab-3p9Hw5BNv9Vm1MntG36CXyWwBanIxidjPrLG5U62POkxn4XF80xOPz8lbNLlB_3u9EpDjGd0l6Y5OgW5k9k2CbhYM1JhckRNtOwUfXbnDVf8PKoY1PUTEXQidPK0BowqN7ZctnBcIXFcB2nsER8vDjIDdFa_4r4xp68H9nx_XoGj9HRmyCG1qxOaqKKp7wMyg1clMGiqAt3hxkqZlsE1mnIRNUksiTBnIFV2O9QYxJrJkbfF-eFljK8gE5Eijc3ExsX2j7iMW0gONV-HTnVqJVXooagiqWN83yLvbNKYIiB1VzFMx1YfAkq_dskdtH-go325nKESqasu2xy3Su1tdt27Yec3Ck4avNMMGxJ8pHzaggRJGIzcVL_c-QYK9x1gr1RWICCMz1Y0gdG9HsYlmT_HurTK_DYKa9GnlCUSKmTzlPA3O1_-0Q9L68WIH4HnvEapvEQJ36vcsJevCny4XyCxvXs9k8sA4g.s-gBzXoTT1hMoUOUPPhafw.a3a19069a171c9946a06b2ab928eab54995de196eaa1d786f225dcdc04232338",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiM2QxYTI4Mzc1NWZlZjE3N2NjODU5N2M2YmNkZjg1MTkyM2Y3OTAyNjNlODE1ZDUxODJiNDU3M2QyMTlkM2FiMCIsIm51bWJlciI6MTMzNzIyLCJzYWx0IjoiYzZkOGU4Mzk1YWRlN2QyMGI3OTgwODNhP2V4cGlyZXM9MTc3MTc1Mzg0OCYiLCJzaWduYXR1cmUiOiJmNDgzYWIzZmIxMzk0NTY5NjkwMjY5MTNmMGU0MmQwZjZiNDIzZDIxOGZmNmU1MjVhMDk5NDMxNjZmMjc1Y2I0In0=",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false
+  }
+}
+--------------------------------------------------
+
+Registrasi 10 (ref: qf6HxA):
+{
+  "token": "48dd0a9b-efec-42da-b52d-26cc43306d59",
+  "invitationCode": "EQ5ovQ",
+  "proxy": "http://yuspkugp:1utyz2m19pvm@64.137.96.74:6641",
+  "turnstileToken": "0.bQ1bd8xC76-yQ8GhMZgaAA4plndistCWC7d-nwuUxwRdQJo_TUm6bRkpYdMfDkIGLS_aky_MhwiZNbvrDmEMtxNU8bcTViqQaV1j-OeprBl8sJ3aZi-duwYcOsi9WLirDL8yAkQDcCbqLv2vp9LxzyHizV0KlGuyO932L1nYVL5vZeRtkutXJ56wSTIRz2xojeFnPPazUz65FHLgZCj08hORZqhuv9DWZlBo3NidQeL_LTRmX3tJfwm7yXGPEVlAlo_UuzAbcoIhjD-T08AOIs849x5I2MhRc935nuata83XZPu_qxqnPXNYmZT_0uSmr58yqkhnNcPd_e9zMKB8DXOq2Oov8PlL6McduNV63xPpJbFiKlm0AukLnTwEm-ZGjP9NZDIONcbtw9L9hOlFV_FV-HzSgAP0rZwA-fVHwG1ez71dUVR_S1FfZ48pkNcmxQmlAkADp7NfQsvVm8neOG3fn2trDQueRaYgvGgjRrRCOiq3ZSV8ch8FVE5Ttn2yhfpHq8H6Dwf85O3qOTxYghbtZk4ZXHqGrZMsmXmD0TpGp-cua1vI5f3-jhWXg6Sc8fE4J6uWb1DqDw3A25hEUjNe_EFis0Bs0nVQSt-QuuBET_l8Jfieg-EOLTlH0zqIyKuimH5me4Sa_MzyNSgLLhseYPExYfBbHjiWd01wVkVttXRvrrAnYo0HnLwbnQl_twGyfi6awjCB13ten4XVbt_sVC-YrShbXsKhJrkXy7B5p_3WUjVAoXk0BL4CgPo5ksYb50HPB6Kn3A3pT6UsnI0FcJJ8WktSp2BURRLkndBRIcJNU4CXk67kLv5zNGoZHvgsO3ubzlJHgJfGFWmjLLemL9CFvyvpbqk6mE-SiiG5l-75OQorK_QY-GhWNXfqzW3KmzObbGumYPwq1XXmOX6zH-4oUN4OmvBCCG7fvwiwHL8ySctLMqSsXyvVuKYHYl6StumU7b3GHM5IHlARbg.Ct0D2aSEDN8ppEtmHAi2bw.60f3131fc0742b6f6131943a8bddb2fadb94b911a1a603634af5407a7e2ab328",
+  "p_data": "eyJhbGdvcml0aG0iOiJTSEEtMjU2IiwiY2hhbGxlbmdlIjoiNzc0ZGI5OTJmYzJlNTQyNDM5YzFkMjZhODQ5NDEzMzIzYTRjYWQyMTVlNjNmYzM4NzkwODhkZThiZDY2OTc2MiIsIm51bWJlciI6NTUwNjAsInNhbHQiOiJmYjFkYTEzMzc0ZTNmZjNiNjc3M2IwZDE/ZXhwaXJlcz0xNzcxNzUzODgyJiIsInNpZ25hdHVyZSI6Ijc2MmM5ZGVlYzY2MjkyY2YxMGQ1NWJmZDY3MThhY2JiNTcwMDU2ZmRiNWY1MTg4Yjc5NzgwZDkzM2JjZGU4MzQifQ==",
+  "captcha_result": {
+    "success": true,
+    "captchaPassed": true,
+    "clicksSinceCaptcha": 0,
+    "captchaRequired": false,
+    "invitationBonus": 1000,
+    "currentNano": 1000,
+    "message": "You and your friend each received 1000 Nyano!"
+  }
+}
+--------------------------------------------------
+
